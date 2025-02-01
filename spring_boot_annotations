@@ -1,4 +1,6 @@
 @SpringBootApplication:
 The main annotation to enable spring boot functionality, including component scanning, autoconfiguration, and property support. 
+@PathVariable:
+Used to extract values from URI templates in Restfull services. 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
